@@ -1,0 +1,11 @@
+C:\Users\Gleb\source\repos\MouseImitation\MouseImitation\bin\Debug\MouseImitation.exe.config
+C:\Users\Gleb\source\repos\MouseImitation\MouseImitation\bin\Debug\MouseImitation.exe
+C:\Users\Gleb\source\repos\MouseImitation\MouseImitation\bin\Debug\MouseImitation.pdb
+C:\Users\Gleb\source\repos\MouseImitation\MouseImitation\obj\Debug\MouseImitation.csprojAssemblyReference.cache
+C:\Users\Gleb\source\repos\MouseImitation\MouseImitation\obj\Debug\MouseImitation.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\MouseImitation\MouseImitation\obj\Debug\MouseImitation.exe
+C:\Users\Gleb\source\repos\MouseImitation\MouseImitation\obj\Debug\MouseImitation.pdb
+C:\Users\Gleb\source\repos\MouseImitation\MouseImitation\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Gleb\source\repos\MouseImitation\MouseImitation\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Gleb\source\repos\MouseImitation\MouseImitation\obj\Debug\MouseImitation.csproj.CopyComplete
+C:\Users\Gleb\source\repos\MouseImitation\MouseImitation\bin\Debug\ByteMessagesFormat.dll
