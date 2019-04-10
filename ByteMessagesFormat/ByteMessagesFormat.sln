@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteMessagesFormat", "ByteMessagesFormat\ByteMessagesFormat.csproj", "{04D1213D-1CCB-4FB8-B37E-9BE6868AD0A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteMessagesFormatTests", "ByteMessagesFormatTests\ByteMessagesFormatTests.csproj", "{6631F273-60FC-4164-A17C-00B7AC5DA9D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04D1213D-1CCB-4FB8-B37E-9BE6868AD0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D1213D-1CCB-4FB8-B37E-9BE6868AD0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D1213D-1CCB-4FB8-B37E-9BE6868AD0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D1213D-1CCB-4FB8-B37E-9BE6868AD0A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6631F273-60FC-4164-A17C-00B7AC5DA9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6631F273-60FC-4164-A17C-00B7AC5DA9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6631F273-60FC-4164-A17C-00B7AC5DA9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6631F273-60FC-4164-A17C-00B7AC5DA9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81588594-5A83-48E9-95A3-5A2C8A669600}
+	EndGlobalSection
+EndGlobal
